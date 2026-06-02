@@ -1,0 +1,32 @@
+# Binaries and build outputs
+bin/
+dist/
+build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Coverage
+coverage.out
+*.coverprofile
+
+# Go workspace/cache files
+go.work.sum
+
+# Environment and local config
+.env
+.env.*
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDE/editor
+.idea/
+.vscode/
