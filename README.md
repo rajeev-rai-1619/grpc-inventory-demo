@@ -1,6 +1,6 @@
 # gRPC Inventory Demo (Go)
 
-This project is a complete runnable version of the gRPC example from your `Medium.rtf`:
+This project is a complete runnable version of the gRPC example:
 - `server`: Inventory service (gRPC server)
 - `client`: Order-side caller (gRPC client)
 - `proto/inventory.proto`: shared API contract
